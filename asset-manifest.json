@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ds450-homework3-react/static/css/main.56a6a87c.css",
+    "main.js": "/ds450-homework3-react/static/js/main.1fd5ffb6.js",
+    "index.html": "/ds450-homework3-react/index.html",
+    "main.56a6a87c.css.map": "/ds450-homework3-react/static/css/main.56a6a87c.css.map",
+    "main.1fd5ffb6.js.map": "/ds450-homework3-react/static/js/main.1fd5ffb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6a87c.css",
+    "static/js/main.1fd5ffb6.js"
+  ]
+}
